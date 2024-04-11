@@ -2,7 +2,7 @@
 
 // USE console.log to check the result of your exercise in the browser javascript console
 
-1. Declare 2 variables, 1 using as values your first and last names
+1. Declare 2 variables, 1 using as value your first and the other your last name
 2. Using the variables declared in 1:
    1. Declare a new variable with a value equal to both your first name and last name using ES5 syntax
    2. Declare a new variable with a value equal to both your first name and last name using template literals
